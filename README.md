@@ -3,7 +3,7 @@ PyCon 2015
 
 PyCon is the largest annual gathering for the community using and developing the open-source Python programming language.
 
-PyCon 2015 will be held in **Montreal**, Quebec, Canada from April 8 – 16, 2015.
+PyCon 2015 will be held in **Montreal**, Quebec, Canada from April 8th – 16th, 2015.
 
 - Tutorials: April 8th - 9th 
 - Conference: April 10th - 12th
