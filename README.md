@@ -14,7 +14,5 @@ PyCon is organized and run by volunteers from the Python community.
 **Help is very much appreciated!**
 
 - Join the team: [Organizers Mailing List](http://mail.python.org/mailman/listinfo/pycon-organizers)
-
 - Help us out: [PyCon 2015 Tasks](https://github.com/PyCon/2015/issues)
-
 - Learn more: [PyCon 2015 Wiki](https://github.com/PyCon/2015/wiki)
